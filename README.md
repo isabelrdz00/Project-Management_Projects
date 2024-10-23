@@ -5,15 +5,15 @@ WBS and Gantt Schedule: Facilitates task planning, resource allocation, and trac
 Decision Matrix: Supports objective evaluation of different implementation strategies and solutions.
 
 ## 📋 Repository Contents
-**- 1. Project Charter**
+**1. Project Charter**
   - Defines the project scope, objectives, stakeholders, and implementation plan. It provides an overview of the project's goals and establishes a framework for execution.
 
-**- 2. Work Breakdown Structure (WBS)**
+**2. Work Breakdown Structure (WBS)**
   - Description: A structured representation of the project’s deliverables broken down into manageable components. This document uses a hierarchical layout to outline tasks and sub-tasks, enabling effective project planning and monitoring.
 
-**- 3. Gantt Schedule**
+**3. Gantt Schedule**
   - Description: A visual timeline of the project’s tasks, milestones, and deadlines. This schedule provides a clear view of task dependencies, durations, and the overall project timeline, aiding in resource allocation and time management.
 
-**- 4. Decision Matrix**
+**4. Decision Matrix**
   - Description: A decision-making tool used to evaluate and prioritize potential project solutions based on various weighted criteria. This document helps ensure that project decisions are data-driven and aligned with project goals.
 
